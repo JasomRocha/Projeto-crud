@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522451695 source:c:\users\jasom\desktop\imobiliaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
